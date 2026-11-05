@@ -41,7 +41,7 @@ I have published a detailed, beginner-friendly guide covering DNS mechanics and 
 ## 🔗 Connect & Network
 
 * **LinkedIn:** [Yunus Can Cömertel](https://www.linkedin.com/in/yunuscancomertel)
-* **Medium:** [@yunuscancomertel](https://yunuscancomertel.medium.com/)
+* **Medium:** [@yunuscancomertel](https://medium.com/@yunuscancomertel)
 
 ---
 *Created as part of my ongoing cybersecurity and SOC analysis learning roadmap.*
